@@ -8,7 +8,11 @@ Run the following for apt to be able to install the necessary packages inside of
 
 sudo apt-get install git python3 
 
-If you do have it run the following command in gitbash:
+Open the terminal and navigate to where you wish to store the files for this course. Then type:
+
+git clone https://github.com/alexsludds/MIT-6.058-Notebook.git
+
+If you do have it run the following command in the terminal:
 
 sudo pip3 install --upgrade pip
 
@@ -25,6 +29,10 @@ https://www.python.org/downloads/
 First thing you must install gitbash (http://gitforwindows.org/)
 
 You should only have to select the first option of anything during installation.
+
+After installing gitbash open gitbash and navigate to where you wish to store the files for this course. Then type:
+
+git clone https://github.com/alexsludds/MIT-6.058-Notebook.git
 
 Then we are going to make sure that you have the most recent version of pip. 
 
@@ -43,6 +51,10 @@ pip3 install --upgrade -r req.txt
 This may take several minutes
 
 ## Mac OS
+
+Open the terminal and navigate to where you wish to store the files for this course. Then type:
+
+git clone https://github.com/alexsludds/MIT-6.058-Notebook.git
 
 If you do have it run the following command in the terminal:
 
