@@ -1,0 +1,8 @@
+numpy 
+scipy
+matplotlib
+ipython
+ipywidgets
+wave
+sys
+
