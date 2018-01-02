@@ -83,5 +83,7 @@ This step is important for us to play long audio clips in Jupyter Notebook (anyt
 # Testing Jupyter Notebook
 
 Within gitbash or the terminal navigate to the 6.058 directory you downloaded and within that directory the backend folder.
+
 Open the test_install notebook file by running 
+
 jupyter notebook test_install.ipynb
