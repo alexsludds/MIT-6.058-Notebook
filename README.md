@@ -80,3 +80,10 @@ Uncomment and change the value to 10000000 (just add a zero)
 
 This step is important for us to play long audio clips in Jupyter Notebook (anything longer than ~1 minute) 
 
+# Testing Jupyter Notebook
+
+Within gitbash or the terminal navigate to the 6.058 directory you downloaded and within that directory the backend folder.
+
+Open the test_install notebook file by running 
+
+jupyter notebook test_install.ipynb
