@@ -3,6 +3,8 @@ This is a notebooks collection I made for the MIT IAP Signals and Systems class
 The course is taught using jupyter-notebook with a python3 kernel.
 # Install Instructions
 
+In general if you have already installed a version of python through a virtual environment software like anaconda etc you will need to install a new version of python. 
+
 ## Linux
 Run the following for apt to be able to install the necessary packages inside of your terminal:
 
