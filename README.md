@@ -72,6 +72,7 @@ In addition to installing the above software on your machine in order to run the
 also need to tweak some of the properties so that we can play long audio etc, please do the following:
 
 # Configure Jupyter Notebook
+type in gitbash or terminal jupyter notebook --py widgetsnbextension
 type in gitbash or terminal: jupyter notebook --generate-config
 
 This will generate a configuration file in your home directory, most likely it will be ~/.jupyter/jupyter_notebook_config.py
